@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    height:100%;
+}
+body{
+    font-family:Arial,"Hiragino Sans GB","微软雅黑","黑体";
+}
+.swiper-container {
+    /*  width: 320px;
+      height: 480px;*/
+    width: 100%;
+    height: 100%;
+}
+img{
+    display:block;
+}
+.swiper-pagination-bullet {
+    width: 6px;
+    height: 6px;
+    background: #fff;
+    opacity: .4;
+}
+.swiper-pagination-bullet-active {
+    opacity: 1;
+}
+
+.ani{
+    position:absolute;
+}
+/*首页界面*/
+.page1_bg{
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+/*第三张背景*/
+.page3_bg{
+    background: url("../images/3/bg.png");
+    background-size: 100% 100%;
+}
+.page3_img{
+    text-align: center;
+}
+.page3_img>img{
+    margin: 10px 0;
+}
+#page4img,#page5img{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
